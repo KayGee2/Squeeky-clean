@@ -92,6 +92,6 @@ Structuring CSS with design tokens and a consistent section system
 Using browser APIs (IntersectionObserver, Web Crypto, localStorage) without libraries
 Building accessible forms and motion-safe animations
 The limits of client-side security, and what a production system needs
-Author
+# Author
 
-Kagisho Madigwe: GitHub
+# Kagisho Madigwe: GitHub
